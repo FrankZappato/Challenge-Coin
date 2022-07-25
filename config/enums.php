@@ -6,7 +6,7 @@ return [
         'CONFIRMED',
         'REVERSED'
     ],
-    'payment_method' => [
+    'payment_methods' => [
         'VISA',
         'MASTER',
         'AMERICAN EXPRESS'
